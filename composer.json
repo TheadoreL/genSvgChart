@@ -1,0 +1,18 @@
+{
+    "name": "theadore/gen-svg-chart",
+    "description": "use php to generate svg charts",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ThedoreLee",
+            "email": "admin@theadorelee.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chart\\": "src/"
+        }
+    }
+}
